@@ -1,0 +1,25 @@
+# VeFa - Akademik Tez ve Makale Asistanı - Bağımlılıklar
+
+# Arka Uç Sunucu (Backend) Bağımlılıkları
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+
+# Masaüstü Arka Plan (System Tray) Uygulaması
+pystray>=0.19.0
+Pillow>=10.0.0
+
+# Ortak Yapay Zeka & Motor Bağımlılıkları
+python-docx>=1.1
+requests>=2.31
+google-generativeai>=0.5
+openai>=1.30
+
+# PDF Okuma ve RAG (Sınırsız PDF okuma)
+PyMuPDF>=1.24
+pdfplumber>=0.11
+pypdf>=4.2
+chromadb>=0.5
+
+# Kaynak Bulucu'nun Genel Web Araması
+ddgs>=5.0

@@ -1,0 +1,50 @@
+{
+  "status": "completed",
+  "step": "Tamamlandı",
+  "progress": 1.0,
+  "topic": "güneş enerji",
+  "mode": "Mod 1",
+  "docx_path": "output_drafts\\VeFa_Tez_güneş_enerji_20260810_111726.docx",
+  "md_path": "output_drafts\\VeFa_Tez_güneş_enerji_20260810_111726.md",
+  "error": null,
+  "updated_at": "2026-08-10 11:17:26",
+  "language_warnings": [],
+  "quality_score": {
+    "overall_score": 64.3,
+    "word_count_score": 2.0,
+    "structure_score": 14.3,
+    "citation_score": 3.0,
+    "repetition_score": 15.0,
+    "language_score": 15.0,
+    "formatting_score": 15.0,
+    "suggestions": [
+      "📏 Kelime sayısı hedefin altında (1845/5000) — bazı bölümler genişletilmeli.",
+      "🧩 Standart bölümlerden bazıları başlıklarda görünmüyor: giriş, literatür. (Özel bölüm planı kullandıysanız bu normaldir.)",
+      "📚 Atıf yoğunluğu düşük (~0.0/1000 kelime) — YÖK/APA 7 için genelde daha sık atıf beklenir.",
+      "📚 Kaynakça bölümü bulunamadı veya başlığı standart değil."
+    ],
+    "stats": {
+      "word_count": 1845,
+      "heading_count": 18,
+      "citation_count": 0,
+      "duplicate_paragraphs": 0,
+      "language_warning_count": 0,
+      "formatting_issue_count": 0
+    },
+    "qa_verifier": {},
+    "qa_thread": "",
+    "qa_skeptic": "",
+    "qa_combined_md": "",
+    "qa_transition": "",
+    "qa_citation_balance": "",
+    "qa_argument_map": "",
+    "qa_methodology_audit": "",
+    "qa_abstract_validation": "",
+    "qa_terminology": "",
+    "qa_statistics": "",
+    "qa_readability": "",
+    "qa_proofreader": "",
+    "qa_phase1": {},
+    "qa_level": "fast"
+  }
+}
